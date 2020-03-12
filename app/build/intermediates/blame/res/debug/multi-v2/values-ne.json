@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\iap_oversea_demo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ne\\values-ne.xml",
+            "outputFile": "D:\\Huawei IAP Testing\\bodbot iap testing\\iap_oversea_demo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ne\\values-ne.xml",
             "map": [
                 {
                     "source": "C:\\Users\\bvu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\c73838a9e2240dcc4fa63434c669bef0\\res\\values-ne\\values-ne.xml",

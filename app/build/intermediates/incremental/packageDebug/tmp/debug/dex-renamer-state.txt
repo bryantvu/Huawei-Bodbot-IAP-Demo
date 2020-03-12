@@ -1,7 +1,7 @@
-#Fri Mar 06 14:35:41 PST 2020
-base.0=D\:\\iap_oversea_demo\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+#Thu Mar 12 16:07:25 PDT 2020
+base.0=D\:\\Huawei IAP Testing\\bodbot iap testing\\iap_oversea_demo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=D\:\\iap_oversea_demo\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+base.1=D\:\\Huawei IAP Testing\\bodbot iap testing\\iap_oversea_demo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1

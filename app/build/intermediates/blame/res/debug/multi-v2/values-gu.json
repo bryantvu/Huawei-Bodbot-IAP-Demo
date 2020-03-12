@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\iap_oversea_demo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gu\\values-gu.xml",
+            "outputFile": "D:\\Huawei IAP Testing\\bodbot iap testing\\iap_oversea_demo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gu\\values-gu.xml",
             "map": [
                 {
                     "source": "C:\\Users\\bvu\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\ecbab2cd3230efa2977edfc6eb5e9817\\res\\values-gu\\values-gu.xml",

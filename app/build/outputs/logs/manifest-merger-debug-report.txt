@@ -1,8 +1,8 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:2:1-35:12
+ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:2:1-35:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\bvu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c73838a9e2240dcc4fa63434c669bef0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\bvu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\07a61642cdd685c90a70f61a42db2f88\AndroidManifest.xml:2:1-11:12
 MERGED from [com.huawei.hms:iap:4.0.1.300] C:\Users\bvu\.gradle\caches\transforms-1\files-1.1\iap-4.0.1.300.aar\824393d66bea62a89b56d0e4551b98d8\AndroidManifest.xml:2:1-17:12
@@ -36,28 +36,28 @@ MERGED from [com.huawei.agconnect:agconnect-core:1.0.0.300] C:\Users\bvu\.gradle
 MERGED from [com.huawei.hmf:tasks:1.3.3.300] C:\Users\bvu\.gradle\caches\transforms-1\files-1.1\tasks-1.3.3.300.aar\9eabc45942bf8395d6972e04e54bb164\AndroidManifest.xml:2:1-10:12
 MERGED from [com.huawei.hms:network-grs:4.0.0.302] C:\Users\bvu\.gradle\caches\transforms-1\files-1.1\network-grs-4.0.0.302.aar\a2a232b178ebdc9b2dc6ac830c71d2a6\AndroidManifest.xml:2:1-11:12
 MERGED from [com.huawei.hms:network-common:4.0.0.302] C:\Users\bvu\.gradle\caches\transforms-1\files-1.1\network-common-4.0.0.302.aar\1f1b615b7c53d4da59b5a252eb9a266f\AndroidManifest.xml:2:1-11:12
-INJECTED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:2:1-35:12
 	package
-		ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:3:5-34
+		ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:3:5-34
 	android:versionName
-		INJECTED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml
-		ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:2:1-35:12
-		INJECTED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml
+		ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml
-		ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:2:1-35:12
-		INJECTED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml
+		ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:5:5-79
+ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:5:5-79
 MERGED from [com.huawei.hms:base:4.0.1.300] C:\Users\bvu\.gradle\caches\transforms-1\files-1.1\base-4.0.1.300.aar\1125c36b053c7792315cdacf34a30389\AndroidManifest.xml:14:5-79
 MERGED from [com.huawei.hms:base:4.0.1.300] C:\Users\bvu\.gradle\caches\transforms-1\files-1.1\base-4.0.1.300.aar\1125c36b053c7792315cdacf34a30389\AndroidManifest.xml:14:5-79
 	android:name
-		ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:5:22-76
+		ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:5:22-76
 application
-ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:7:5-33:19
+ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:7:5-33:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\bvu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\07a61642cdd685c90a70f61a42db2f88\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\bvu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\07a61642cdd685c90a70f61a42db2f88\AndroidManifest.xml:9:5-20
 MERGED from [com.huawei.hms:iap:4.0.1.300] C:\Users\bvu\.gradle\caches\transforms-1\files-1.1\iap-4.0.1.300.aar\824393d66bea62a89b56d0e4551b98d8\AndroidManifest.xml:11:5-15:19
@@ -73,57 +73,57 @@ MERGED from [com.huawei.agconnect:agconnect-core:1.0.0.300] C:\Users\bvu\.gradle
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\bvu\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ecbab2cd3230efa2977edfc6eb5e9817\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:10:9-41
 	android:roundIcon
-		ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:11:9-42
+		ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:11:9-42
 	android:icon
-		ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:9:9-37
+		ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:9:9-37
 	android:allowBackup
-		ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:13:9-40
+		ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:13:9-40
 activity#com.bvutest.iapdemo.activity.NonConsumptionActivity
-ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:14:9-16:52
+ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:14:9-16:52
 	android:label
-		ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:16:13-49
+		ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:16:13-49
 	android:name
-		ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:15:13-79
+		ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:15:13-79
 activity#com.bvutest.iapdemo.activity.ConsumptionActivity
-ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:17:9-20:20
+ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:17:9-20:20
 	android:theme
-		ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:19:13-47
+		ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:19:13-47
 	android:name
-		ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:18:13-76
+		ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:18:13-76
 activity#com.bvutest.iapdemo.subscription.SubscriptionActivity
-ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:22:9-99
+ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:22:9-99
 	android:name
-		ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:22:19-87
+		ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:22:19-87
 activity#com.bvutest.iapdemo.activity.EntryActivity
-ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:23:9-29:20
+ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:23:9-29:20
 	android:name
-		ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:23:19-76
+		ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:23:19-76
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:24:13-28:29
+ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:24:13-28:29
 action#android.intent.action.MAIN
-ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:25:17-69
+ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:25:25-66
+		ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:27:17-77
+ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:27:27-74
+		ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:27:27-74
 activity#com.bvutest.iapdemo.activity.PurchaseHistoryActivity
-ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:30:9-32:61
+ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:30:9-32:61
 	android:label
-		ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:32:13-59
+		ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:32:13-59
 	android:name
-		ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:31:13-80
+		ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:31:13-80
 uses-sdk
-INJECTED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml
-INJECTED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml
+INJECTED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml
+INJECTED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\bvu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c73838a9e2240dcc4fa63434c669bef0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\bvu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c73838a9e2240dcc4fa63434c669bef0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\bvu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\07a61642cdd685c90a70f61a42db2f88\AndroidManifest.xml:5:5-7:41
@@ -190,16 +190,16 @@ MERGED from [com.huawei.hms:network-grs:4.0.0.302] C:\Users\bvu\.gradle\caches\t
 MERGED from [com.huawei.hms:network-grs:4.0.0.302] C:\Users\bvu\.gradle\caches\transforms-1\files-1.1\network-grs-4.0.0.302.aar\a2a232b178ebdc9b2dc6ac830c71d2a6\AndroidManifest.xml:7:5-9:41
 MERGED from [com.huawei.hms:network-common:4.0.0.302] C:\Users\bvu\.gradle\caches\transforms-1\files-1.1\network-common-4.0.0.302.aar\1f1b615b7c53d4da59b5a252eb9a266f\AndroidManifest.xml:7:5-9:41
 MERGED from [com.huawei.hms:network-common:4.0.0.302] C:\Users\bvu\.gradle\caches\transforms-1\files-1.1\network-common-4.0.0.302.aar\1f1b615b7c53d4da59b5a252eb9a266f\AndroidManifest.xml:7:5-9:41
-INJECTED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml
-INJECTED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml
+INJECTED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml
+INJECTED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml
-		ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml
-		INJECTED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml
+		ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml
-		ADDED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml
-		INJECTED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml
+		ADDED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml
 meta-data#com.huawei.hms.client.service.name:iap
 ADDED from [com.huawei.hms:iap:4.0.1.300] C:\Users\bvu\.gradle\caches\transforms-1\files-1.1\iap-4.0.1.300.aar\824393d66bea62a89b56d0e4551b98d8\AndroidManifest.xml:12:9-14:45
 	android:value
@@ -291,7 +291,7 @@ ADDED from [com.huawei.hms:base:4.0.1.300] C:\Users\bvu\.gradle\caches\transform
 	android:name
 		ADDED from [com.huawei.hms:base:4.0.1.300] C:\Users\bvu\.gradle\caches\transforms-1\files-1.1\base-4.0.1.300.aar\1125c36b053c7792315cdacf34a30389\AndroidManifest.xml:70:13-73
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from D:\iap_oversea_demo\app\src\main\AndroidManifest.xml:2:1-35:12 reason: com.huawei.android.hms.base requested WRITE_EXTERNAL_STORAGE
+IMPLIED from D:\Huawei IAP Testing\bodbot iap testing\iap_oversea_demo\app\src\main\AndroidManifest.xml:2:1-35:12 reason: com.huawei.android.hms.base requested WRITE_EXTERNAL_STORAGE
 provider#com.huawei.agconnect.core.provider.AGConnectInitializeProvider
 ADDED from [com.huawei.agconnect:agconnect-core:1.0.0.300] C:\Users\bvu\.gradle\caches\transforms-1\files-1.1\agconnect-core-1.0.0.300.aar\ecf18c08e89d2892f53c3dff703aad59\AndroidManifest.xml:10:9-13:40
 	android:authorities

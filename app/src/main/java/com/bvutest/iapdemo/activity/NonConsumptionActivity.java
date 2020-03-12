@@ -162,22 +162,6 @@ public class NonConsumptionActivity extends AppCompatActivity implements View.On
 
             }
             Log.d(TAG, "checkPurchaseState >> "+inAppPurchaseDataList.get(i));
-            if (CipherUtil.doCheck(inAppPurchaseDataList.get(i), inAppSignature.get(i), Key.getPublicKey())) {
-                try {
-                    InAppPurchaseData inAppPurchaseDataBean = new InAppPurchaseData(inAppPurchaseDataList.get(i));
-                    if (inAppPurchaseDataBean.getPurchaseState() == InAppPurchaseData.PurchaseState.PURCHASED) {
-                        if (NC_PRODUCTID.equals(inAppPurchaseDataBean.getProductId())) {
-                            Log.d(TAG, "checkPurchaseState >> NC Product Found >> " + inAppPurchaseDataList.get(i));
-                            purchaseStatus = true;
-                            break;
-                        }
-                    }
-                } catch (JSONException e) {
-                    Log.e(TAG, "checkPurchaseState >> " + e.getMessage());
-                }
-            } else {
-                Log.e(TAG, "checkPurchaseState >> verify signature error");
-            }
         }
         if (purchaseStatus) {
             showPurchaseStatus();

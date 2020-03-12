@@ -119,7 +119,7 @@ The demo provides *gem* as an example of consumable product.
 
 ### Purchasing non-consumable product
 
-The demo provides *hidden level* as an example of non-consumable product.
+The demo an example of non-consumable product.
 
 1. Tap the **Non-consumable product**, you should be able to see the home page for non-consumable demo.
     The demo will call the `obtainOwnedPurchases` API to obtain purchased non-consumable product.
